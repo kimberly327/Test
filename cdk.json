@@ -5,14 +5,14 @@
       "account": "901731537827",
       "region": "eu-west-1",
       "stage": "dev",
-      "codeStarConnection": "arn:aws:codestar-connections:eu-west-1:045616804667:connection/41e9be8f-3788-434f-b346-e4f84009279d",
-      "branchNameBackend": "staging"
+      "codeStarConnection": "arn:aws:codestar-connections:eu-west-1:415441185527:connection/974a2837-236d-4d13-95ab-860a28059b85",
+      "branchNameBackend": "main"
     },
     "prod": {
       "account": "901731537827",
       "region": "eu-west-1",
       "stage": "prod",
-      "codeStarConnection": "arn:aws:codestar-connections:eu-west-1:045616804667:connection/41e9be8f-3788-434f-b346-e4f84009279d",
+      "codeStarConnection": "arn:aws:codestar-connections:eu-west-1:415441185527:connection/974a2837-236d-4d13-95ab-860a28059b85",
       "branchNameBackend": "main"
     }
   },
